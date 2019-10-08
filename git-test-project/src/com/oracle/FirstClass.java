@@ -12,6 +12,6 @@ public class FirstClass {
     }
 
     public void test(){
-
+        System.out.println("test");
     }
 }
